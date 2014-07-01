@@ -9,6 +9,7 @@ title: About
 * [Hyde](http://hyde.getpoole.com) 
 
 <p class="message">
-  Rita Dungee
+->  Rita Dungee
 <br>rita.dungee@gmail.com
+<-
 </p>
