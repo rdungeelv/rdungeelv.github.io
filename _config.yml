@@ -6,10 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            'What?'
+title:            What
 tagline:          'I have no idea what I'm doing'
 description:      'We considered ourselves to be a powerful culture.'
 url:              http://hyde.getpoole.com
+
+author:
+  name:           'Rita Dungee'
+  url:            rdungeelv.github.io
 
 paginate:         5
 
